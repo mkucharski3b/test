@@ -13,3 +13,4 @@ _będziemy się uczyć:_
    - SASS
    - makiety aplikacji
    - Git
+[a to jest link do wikipedii](http://wikipedia.org)
