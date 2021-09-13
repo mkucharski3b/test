@@ -16,3 +16,5 @@ _będziemy się uczyć:_
 ---
 ### tutaj coś innego niż zwykle
 [a to jest link do wikipedii](http://wikipedia.org)
+
+>*Jedni ludzie są równi, a jedni są równiejsi ~ Ktoś ważny*
